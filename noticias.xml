@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portada</title>
+    <link>http://www.europapress.es/</link>
+    <description>Portada</description>
+    <image>
+      <url>http://s01.europapress.net/imagenes/estaticos/eplogo.gif</url>
+      <title>Portada</title>
+      <link>http://www.europapress.es/</link>
+    </image>
+    <language>es-ES</language>
+    <copyright>(C) 2015 Europa Press.</copyright>
+    <pubDate>Fri, 20 Mar 2015 08:47:12 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2015 08:10:35 GMT</lastBuildDate>
+    <atom:link href="http://www.europapress.es/rss/rss.aspx" rel="self" type="application/rss+xml" />
+    <ttl>2</ttl>
+    <item>
+      <title>Sa ampliará capital en 1.600 millones para comprar TSB</title>
+      <link>http://www.europapress.es/economia/finanzas-00340/noticia-sabadell-ampliara-capital-1600-millones-comprar-tsb-20150320083614.html</link>
+      <description>Banco Sabadell ampliará capital en 1.600 millones de euros para financiar la compra de la entidad británica TSB Banking Group, valorada en aproximadamente 1.700 millones de libras esterlinas (2.351 millones de euros), según ha informado este viernes la entidad catalana.</description>
+      <enclosure url="http://img2.europapress.net/fotoweb/fotonoticia_20150320083614_120.jpg" length="4096" type="image/jpeg" />
+      <guid isPermaLink="true">http://www.europapress.es/economia/finanzas-00340/noticia-sabadell-ampliara-capital-1600-millones-comprar-tsb-20150320083614.html</guid>
+      <pubDate>Fri, 20 Mar 2015 07:36:14 GMT</pubDate>
+      <category>Economía Finanzas</category>
+      <category>Finanzas</category>
+    </item>
+    <item>
+      <title>Grecia se compromete a presentar una "lista completa de reformas" en "próximos días"</title>
+      <link>http://www.europapress.es/internacional/noticia-grecia-compromete-presentar-lista-completa-reformas-proximos-dias-20150320024528.html</link>
+      <description>El primer ministro heleno, Alexis Tsipras, se ha comprometido este jueves ante los líderes de la UE a presentar una "lista completa de reformas concretas" durante los "próximos días" con el fin de desbloquear las negociaciones con la 'troika' para desbloquear un nuevo tramo del rescate.</description>
+      <guid isPermaLink="true">http://www.europapress.es/internacional/noticia-grecia-compromete-presentar-lista-completa-reformas-proximos-dias-20150320024528.html</guid>
+      <pubDate>Fri, 20 Mar 2015 01:45:28 GMT</pubDate>
+      <category>Internacional</category>
+    </item>
+    <item>
+      <title>Grecia dice que recibirá fondos cuando comunique al Eurogrupo sus reformas</title>
+      <link>http://www.europapress.es/internacional/noticia-grecia-dice-recibira-fondos-cuando-comunique-eurogrupo-reformas-20150320091035.html</link>
+      <description>El Gobierno de Grecia ha asegurado este viernes que recibirá los fondos que necesita cuando comunique a los ministros de Finanzas del Eurogrupo una lista detallada de las reformas económicas que pretende hacer en los próximos meses.</description>
+      <guid isPermaLink="true">http://www.europapress.es/internacional/noticia-grecia-dice-recibira-fondos-cuando-comunique-eurogrupo-reformas-20150320091035.html</guid>
+      <pubDate>Fri, 20 Mar 2015 08:10:35 GMT</pubDate>
+      <category>Internacional</category>
+    </item>
+    <item>
+      <title>Un avión argentino con diez ocupantes se estrella en Uruguay</title>
+      <link>http://www.europapress.es/internacional/noticia-avion-argentino-diez-ocupantes-estrella-uruguay-20150320023316.html</link>
+      <description>Un avión con matrícula argentina y diez ocupantes a bordo se ha estrellado este jueves, poco después de despegar del aeropuerto internacional Punta del Este, en el departamento uruguayo de Maldonado, según han confirmado al diario local 'El País' fuentes de la Fuerza Aérea de Uruguay.</description>
+      <guid isPermaLink="true">http://www.europapress.es/internacional/noticia-avion-argentino-diez-ocupantes-estrella-uruguay-20150320023316.html</guid>
+      <pubDate>Fri, 20 Mar 2015 01:33:16 GMT</pubDate>
+      <category>Internacional</category>
+    </item>
+    <item>
+      <title>Hallan los cuerpos sin vida de 7 ocupantes del avión siniestrado en Uruguay</title>
+      <link>http://www.europapress.es/internacional/noticia-hallan-cuerpos-vida-ocupantes-avion-siniestrado-uruguay-20150320062206.html</link>
+      <description>Los equipos de rescate uruguayos han hallado carbonizados los cuerpos de siete de los diez ocupantes del avión con matrícula argentina siniestrado este jueves en Uruguay.</description>
+      <guid isPermaLink="true">http://www.europapress.es/internacional/noticia-hallan-cuerpos-vida-ocupantes-avion-siniestrado-uruguay-20150320062206.html</guid>
+      <pubDate>Fri, 20 Mar 2015 05:22:06 GMT</pubDate>
+      <category>Internacional</category>
+    </item>
+    <item>
+      <title>El déficit comercial baja un 7,9% en enero</title>
+      <link>http://www.europapress.es/economia/macroeconomia-00338/noticia-deficit-comercial-baja-79-enero-2596-millones-euros-20150320090919.html</link>
+      <description>El déficit comercial alcanzó los 2.596,2 millones de euros en enero, cifra un 7,9% inferior a la del mismo mes del año pasado (2.818 millones de euros), según datos difundidos este viernes por el Ministerio de Economía y Competitividad.</description>
+      <guid isPermaLink="true">http://www.europapress.es/economia/macroeconomia-00338/noticia-deficit-comercial-baja-79-enero-2596-millones-euros-20150320090919.html</guid>
+      <pubDate>Fri, 20 Mar 2015 08:09:19 GMT</pubDate>
+      <category>Economía Finanzas</category>
+      <category>Macroeconomía</category>
+    </item>
+    <item>
+      <title>El Gobierno trabaja para repatriar hoy a las víctimas españolas del atentado de Túnez</title>
+      <link>http://www.europapress.es/nacional/noticia-gobierno-trabaja-repatriar-hoy-victimas-espanolas-atentado-tunez-20150320071719.html</link>
+      <description>El Gobierno español trabaja con la previsión de poder repatriar este viernes a las víctimas españolas del atentado de Túnez, siempre y cuando se hayan completado para entonces todos los trámites correspondientes, han adelantado a Europa Press fuentes diplomáticas.</description>
+      <guid isPermaLink="true">http://www.europapress.es/nacional/noticia-gobierno-trabaja-repatriar-hoy-victimas-espanolas-atentado-tunez-20150320071719.html</guid>
+      <pubDate>Fri, 20 Mar 2015 06:17:19 GMT</pubDate>
+      <category>Nacional</category>
+    </item>
+    <item>
+      <title>Atraca en Barcelona el crucero en el que iban los dos fallecidos catalanes en Túnez</title>
+      <link>http://www.europapress.es/catalunya/noticia-atraca-barcelona-crucero-iban-dos-fallecidos-catalanes-tunez-20150320081819.html</link>
+      <description>El crucero de MSC Cruceros Splendida, que recalaba en Túnez en el momento del atentado en el Museo Bardo y en el que viajaban los dos barceloneses fallecidos, ha llegado este viernes a Barcelona.</description>
+      <enclosure url="http://img.europapress.net/fotoweb/fotonoticia_20150320081819_120.jpg" length="4096" type="image/jpeg" />
+      <guid isPermaLink="true">http://www.europapress.es/catalunya/noticia-atraca-barcelona-crucero-iban-dos-fallecidos-catalanes-tunez-20150320081819.html</guid>
+      <pubDate>Fri, 20 Mar 2015 07:18:19 GMT</pubDate>
+      <category>Cataluña</category>
+    </item>
+    <item>
+      <title>Llega a Palma el crucero Costa Fascinosa, en el que viajaban cinco víctimas del atentado de Túnez</title>
+      <link>http://www.europapress.es/nacional/noticia-llega-palma-crucero-costa-fascinosa-viajaban-cinco-victimas-atentado-tunez-20150320080322.html</link>
+      <description>El crucero Costa Fascinosa, de la compañía Costa Cruceros, ha llegado a las 5.45 horas de este viernes al Puerto de Palma de Mallorca procedente de Túnez, donde cinco de sus pasajeros (cuatro italianos y un ruso) perdieron la vida en el atentado del pasado miércoles contra el Parlamento y el Museo del Bardo.</description>
+      <guid isPermaLink="true">http://www.europapress.es/nacional/noticia-llega-palma-crucero-costa-fascinosa-viajaban-cinco-victimas-atentado-tunez-20150320080322.html</guid>
+      <pubDate>Fri, 20 Mar 2015 07:03:22 GMT</pubDate>
+      <category>Nacional</category>
+    </item>
+    <item>
+      <title>Hallados los cadáveres de cinco bebés en una vivienda del sur de Francia</title>
+      <link>http://www.europapress.es/internacional/noticia-hallados-cadaveres-cinco-bebes-vivienda-sur-francia-20150320023043.html</link>
+      <description>La Policía de Francia ha anunciado este jueves la localización de los cadáveres de cinco bebés en un congelador de una vivienda de la localidad de Louchats, ubicada cerca de Burdeos, en el sur del país.</description>
+      <guid isPermaLink="true">http://www.europapress.es/internacional/noticia-hallados-cadaveres-cinco-bebes-vivienda-sur-francia-20150320023043.html</guid>
+      <pubDate>Fri, 20 Mar 2015 01:30:43 GMT</pubDate>
+      <category>Internacional</category>
+    </item>
+  </channel>
+</rss>

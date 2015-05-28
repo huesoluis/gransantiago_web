@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <titulo>Portada</titulo>
+    <enlace>http://www.europapress.es/</enlace>
+    <descripcion>Portada</descripcion>
+    <image>
+      <url>http://s01.europapress.net/imagenes/estaticos/eplogo.gif</url>
+      <titulo>Portada</titulo>
+      <enlace>http://www.europapress.es/</enlace>
+    </image>
+    <language>es-ES</language>
+    <copyright>(C) 2015 Europa Press.</copyright>
+    <fechapub>Wed, 11 Mar 2015 13:06:37 GMT</fechapub>
+    <lastBuildDate>Wed, 11 Mar 2015 12:24:13 GMT</lastBuildDate>
+    <atom:enlace href="http://www.europapress.es/rss/rss.aspx" rel="self" type="application/rss+xml" />
+    <ttl>2</ttl>
+    <noticia>
+      <titulo>El TS rechaza definitivamente la demanda de paternidad contra el Rey Juan Carlos</titulo>
+      <enlace>http://www.europapress.es/nacional/noticia-ts-rechaza-definitivamente-demanda-paternidad-contra-rey-juan-carlos-20150311123049.html</enlace>
+      <descripcion>El Pleno de la Sala de lo Civil del Tribunal Supremo ha estimado por siete votos frente a tres el recurso presentado por la defensa del Rey Juan Carlos y ha dejado sin efecto la admisión a trámite que había acordado de la demanda de paternidad presentada por la ciudadana belga Ingrid Jeanne Sartiau, han informado fuentes del alto tribunal.</descripcion>
+      <enclosure url="http://img.europapress.net/fotoweb/fotonoticia_20150311123049_120.jpg" length="4096" type="image/jpeg" />
+      <guid isPermaenlace="true">http://www.europapress.es/nacional/noticia-ts-rechaza-definitivamente-demanda-paternidad-contra-rey-juan-carlos-20150311123049.html</guid>
+      <fechapub>Wed, 11 Mar 2015 11:30:49 GMT</fechapub>
+      <categoria>Nacional</categoria>
+    </noticia>
+    <noticia>
+      <titulo>Bárcenas dice que los empresarios pagaron la reforma de la sede</titulo>
+      <enlace>http://www.europapress.es/illes-balears/noticia-barcenas-afirma-pp-nacional-pago-facturas-negro-elecciones-europeas-2004-20150311121451.html</enlace>
+      <descripcion>El extesorero del PP nacional Luis Bárcenas, quien este miércoles ha declarado en calidad de testigo ante el juez instructor del caso Palma Arena, José Castro, ha afirmado que el partido abonó facturas en negro en las elecciones europeas de 2004, tratándose así del único pago 'en B' del que ha recordado tener constancia, según han informado fuentes jurídicas.</descripcion>
+      <guid isPermaenlace="true">http://www.europapress.es/illes-balears/noticia-barcenas-afirma-pp-nacional-pago-facturas-negro-elecciones-europeas-2004-20150311121451.html</guid>
+      <fechapub>Wed, 11 Mar 2015 11:14:51 GMT</fechapub>
+      <categoria>Islas Baleares</categoria>
+    </noticia>
+    <noticia>
+      <titulo>Plazaola en busca y captura desde ayer tras anular el TS su excarcelación</titulo>
+      <enlace>http://www.europapress.es/nacional/noticia-plazaola-busca-captura-ayer-anular-ts-excarcelacion-20150311120506.html</enlace>
+      <descripcion>La Sección Primera de lo Penal de la Audiencia Nacional dictó a primera hora de la tarde de este martes orden de busca y captura para ingreso en prisión del miembro de ETA Alberto Plazaola tras serle comunicada por el Tribunal Supremo la anulación de la resolución por la que el pasado mes de diciembre se acumularon sus condenas con las cumplidas en Francia, lo que conllevó a su excarcelación.</descripcion>
+      <guid isPermaenlace="true">http://www.europapress.es/nacional/noticia-plazaola-busca-captura-ayer-anular-ts-excarcelacion-20150311120506.html</guid>
+      <fechapub>Wed, 11 Mar 2015 11:05:06 GMT</fechapub>
+      <categoria>Nacional</categoria>
+    </noticia>
+    <noticia>
+      <titulo>¿Cómo evitar salir en la lista de morosos? Paga tus deudas antes del 31 de julio</titulo>
+      <enlace>http://www.europapress.es/economia/fiscal-00347/noticia-evitar-salir-lista-morosos-paga-deudas-antes-31-julio-20150311123510.html</enlace>
+      <descripcion>El Ministerio de Hacienda y Administraciones Públicas publicará en el cuarto trimestre de este año el listado de deudores con el fisco, que incluirá a los morosos que a 31 de julio de 2015 tengan deudas pendientes de más de un millón de euros.</descripcion>
+      <guid isPermaenlace="true">http://www.europapress.es/economia/fiscal-00347/noticia-evitar-salir-lista-morosos-paga-deudas-antes-31-julio-20150311123510.html</guid>
+      <fechapub>Wed, 11 Mar 2015 11:35:10 GMT</fechapub>
+      <categoria>Economía Finanzas</categoria>
+      <categoria>Fiscal</categoria>
+    </noticia>
+    <noticia>
+      <titulo>Localizan a 18 supervivientes y cuatro fallecidos de la patera que salió de Tan-Tan rumbo a Canarias</titulo>
+      <enlace>http://www.europapress.es/islas-canarias/noticia-localizan-patera-tan-tan-marruecos-hallan-cadaveres-mar-20150311122532.html</enlace>
+      <descripcion>El Centro Coordinador Regional de Canarias (CCRC) ha informado este miércoles de la localización en Tan-Tan (Marruecos) de 18 supervivientes de una patera y cuatro cadáveres en la costa. Esta sería la embarcación que Salvamento Marítimo llevaba buscando desde el lunes, en la que viajaban 30 personas, según Ca-Minando Fronteras.</descripcion>
+      <guid isPermaenlace="true">http://www.europapress.es/islas-canarias/noticia-localizan-patera-tan-tan-marruecos-hallan-cadaveres-mar-20150311122532.html</guid>
+      <fechapub>Wed, 11 Mar 2015 11:25:32 GMT</fechapub>
+      <categoria>Islas Canarias</categoria>
+    </noticia>
+    <noticia>
+      <titulo>Sánchez pide a Rajoy que deje de "esconderse" por la trama Gürtel y el presidente le recuerda los ERE</titulo>
+      <enlace>http://www.europapress.es/nacional/noticia-sanchez-pide-rajoy-deje-esconderse-trama-gurtel-presidente-le-recuerda-ere-20150311094829.html</enlace>
+      <descripcion>El secretario general del PSOE, Pedro Sánchez, ha exigido este miércoles a Mariano Rajoy que acuda al Congreso a dar explicaciones sobre la trama Gürtel y no se "esconda", al tiempo que le ha preguntado si ha pagado la fianza de 245.000 euros que el juez ha impuesto al PP por este asunto.</descripcion>
+      <enclosure url="http://img.europapress.net/fotoweb/fotonoticia_20150311094829_120.jpg" length="4096" type="image/jpeg" />
+      <guid isPermaenlace="true">http://www.europapress.es/nacional/noticia-sanchez-pide-rajoy-deje-esconderse-trama-gurtel-presidente-le-recuerda-ere-20150311094829.html</guid>
+      <fechapub>Wed, 11 Mar 2015 08:48:29 GMT</fechapub>
+      <categoria>Nacional</categoria>
+    </noticia>
+   
+  </channel>
+</rss>

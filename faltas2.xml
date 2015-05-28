@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<raiz>
+<sesion>
+	<hora>10:00</hora>
+	<falta>
+		<profesor_falta>pf1</profesor_falta>
+		<profesor_cubre>pc1</profesor_cubre>
+		<asignatura>a1</asignatura>
+	</falta>
+	<falta>
+		<profesor_falta>pf2</profesor_falta>
+		<profesor_cubre>pc2</profesor_cubre>
+		<asignatura>a2</asignatura>
+	</falta>
+</sesion>
+<sesion>
+	<hora>11:00</hora>
+	<falta>
+		<profesor_falta>pf3</profesor_falta>
+		<profesor_cubre>pc3</profesor_cubre>
+		<asignatura>a3</asignatura>
+	</falta>
+	<falta>
+		<profesor_falta>pf4</profesor_falta>
+		<profesor_cubre>pc4</profesor_cubre>
+		<asignatura>a4</asignatura>
+	</falta>
+</sesion>
+</raiz>
+</rss>

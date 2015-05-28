@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<raiz>
+<sesion id="1">
+	<falta>
+    <profesor_falta id="445">
+	<profesor_cubre>505</profesor_cubre>
+	<asignatura>CONT - AF1A - B12</asignatura>
+    </profesor_falta>
+	</falta>
+	<falta>
+    <profesor_falta id="445">
+	<profesor_cubre>505</profesor_cubre>
+	<asignatura>CONT - AF1A - B12</asignatura>
+    </profesor_falta>
+	</falta>
+
+</sesion>
+
+<sesion id="2">
+	<falta>
+    <profesor_falta id="445">
+	<profesor_cubre>505</profesor_cubre>
+	<asignatura>CONT - AF1A - B12</asignatura>
+    </profesor_falta>
+	</falta>
+</sesion>
+<sesion id="3">
+	<falta>
+    <profesor_falta id="445">
+	<profesor_cubre>505</profesor_cubre>
+	<asignatura>CONT - AF1A - B12</asignatura>
+    </profesor_falta>
+	</falta>
+	<falta>
+    <profesor_falta id="445">
+	<profesor_cubre>505</profesor_cubre>
+	<asignatura>CONT - AF1A - B12</asignatura>
+    </profesor_falta>
+	</falta>
+</sesion>
+
+</raiz>
+</rss>
